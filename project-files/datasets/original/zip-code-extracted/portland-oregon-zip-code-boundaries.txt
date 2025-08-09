@@ -1,0 +1,42 @@
+========================================================================
+ Portland, Oregon Zip Code Boundaries
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96779-portland-oregon-zip-code-boundaries/
+========================================================================
+From: City of Portland, Oregon
+
+Description:
+  This data is maintained by and obtained from Metro Data Resource Center. Please
+  go to
+  http://rlisdiscovery.oregonmetro.gov/metadataviewer/display.cfm?meta_layer_id=179
+  for the complete metadata.
+  
+  --Additional Information:
+  Category: Boundary
+  Purpose: No purpose information available.
+  Update Frequency: Irregular
+  
+  © City of Portland, Oregon
+  
+  This layer is sourced from [CGIS Open
+  Data](https://www.portlandmaps.com/arcgis/rest/services/Public/COP_OpenData/MapServer?f=json).
+
+Region: United States of America
+
+CRS: WGS 84 / Pseudo-Mercator
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 11 Sep 2018
+- 6 invalid geometries fixed at import time 
+    (see https://koordinates.com/layer/96779-portland-oregon-zip-code-boundaries/history/)
+- converted by Koordinates to Shapefile on 06 Aug 2025 (reference #4217775)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+

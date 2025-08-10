@@ -1,20 +1,20 @@
 ﻿Resource Name,Address,Zip,hours,library,open,temporary_shelter,day_center,coord_reentry,group_therapy,showers,meals,food_box,laundry,health_services,misc_services,description,URL
-Albina Library,205 NE Russell Street,97212,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Capitol Hill Library,10723 SW Capitol Highway,97219,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Central Library,801 SW 10th Avenue,97205,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Gregory Heights Library,7921 NE Sandy Boulevard,97213,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Hillsdale Library,1525 SW Sunset Boulevard,97239,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Holgate Library,7905 SE Holgate Boulevard,97206,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Kenton Library,8226 N Denver Avenue,97217,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Midland Library,805 SE 122nd Avenue,97233,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-North Portland Library,512 N Killingsworth Street,97217,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Northwest Library,2300 NW Thurman Street,97210,,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Belmont Library,1038 SE César E. Chávez Boulevard,97214,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Hollywood Library,4040 NE Tillamook Street,97212,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Rockwood Library,17917 SE Stark Street,97233,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Sellwood-Moreland Library,7860 SE 13th Avenue,97202,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
-St. Johns Library,7510 N Charleston Avenue,97203,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
-Woodstock Library,6008 SE 49th Avenue,97206,,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Albina Library,205 NE Russell Street,97212,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Capitol Hill Library,10723 SW Capitol Highway,97219,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Central Library,801 SW 10th Avenue,97205,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Gregory Heights Library,7921 NE Sandy Boulevard,97213,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Hillsdale Library,1525 SW Sunset Boulevard,97239,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Holgate Library,7905 SE Holgate Boulevard,97206,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Kenton Library,8226 N Denver Avenue,97217,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Midland Library,805 SE 122nd Avenue,97233,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+North Portland Library,512 N Killingsworth Street,97217,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Northwest Library,2300 NW Thurman Street,97210,TBD,1,1,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Belmont Library,1038 SE César E. Chávez Boulevard,97214,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Hollywood Library,4040 NE Tillamook Street,97212,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Rockwood Library,17917 SE Stark Street,97233,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Sellwood-Moreland Library,7860 SE 13th Avenue,97202,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+St. Johns Library,7510 N Charleston Avenue,97203,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
+Woodstock Library,6008 SE 49th Avenue,97206,TBD,1,0,0,0,0,0,0,0,0,0,0,0,public library,TBD
 Clackamas Service Center,8800 SE 80th Avenue,97206,Tuesday-Thursday 10am-1pm,0,1,0,1,0,0,1,0,0,0,0,0,"Provides hot showers with shampoo, soap, and a towel. Change of underclothes provided when available. Showers limited to 15 minutes.",TBD
 Cultivate Initiatives,3130 SE 148th Avenue,97236,Varies,0,1,0,1,0,0,1,0,0,0,1,1,"Provides a mobile van for showers, clothing, haircuts, hygiene products, COVID-19 screenings, wound care, health education, and provider referrals. Some services are conducted by nursing students and depend on volunteers.",TBD
 Union Gospel Mission,9715 SE Powell Boulevard,97266,Saturday 10am-2pm,0,1,0,1,0,0,1,0,0,0,0,0,Provides a mobile shower trailer.,TBD
@@ -76,4 +76,4 @@ Meals are provided and childcare is available.",TBD
 Cascadia Health,6200 SE King Road,97222,Varies by service,0,1,0,0,0,1,0,0,0,0,0,0,"Offers mental health counseling for families, primary care, and substance use disorder (SUD) services, including Adult Outpatient/Recovery day services.",TBD
 Northwest Family Services,3231 SE 50th Avenue,97206,"Monday-Thursday 8am-6pm, Friday 8am-5pm",0,1,0,0,0,1,0,0,0,0,0,0,"Professional counseling provided by licensed counselors. Services include individual, couples, and family counseling, as well as educational seminars and classes on topics including depression, anxiety, grief, anger management, body image, parenting, and communication skills.",TBD
 Quest Center For Integrative Health,12636 SE Stark Street,97233,Monday-Friday 8:30am-5pm,0,1,0,0,0,1,0,0,0,0,0,0,"Provide services, counseling, support groups, and education to people seeking a wellness-focused approach to living and dying. Assist clients to sustain lifestyle changes that support healing and to effectively strengthen those diagnosed with chronic or life-challenging illnesses, including HIV/AIDS, mental health disorders, chemical dependency, and breast cancer. Offers naturopathic, osteopathic, and Chinese medicine and non-opioid pain management services.",TBD
-Lifestance Health,,,,0,1,0,0,0,1,0,0,0,0,0,0,"Provides mental health evaluations and individual, couples, and faith-based counseling. Offers psychiatric medication evaluation and management services.",TBD
+Lifestance Health,12636 SE Stark Street,97233,Monday-Friday 8:30am-5pm,0,1,0,0,0,1,0,0,0,0,0,0,"Provides mental health evaluations and individual, couples, and faith-based counseling. Offers psychiatric medication evaluation and management services.",TBD

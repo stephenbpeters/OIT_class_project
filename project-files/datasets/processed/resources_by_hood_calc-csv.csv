@@ -1,0 +1,42 @@
+neighborhood,library_open,temporary_shelter,day_center,coord_reentry,group_therapy,showers,meals,food_box,laundry,health_services,misc_services,number_of_locations,final_resource_calc
+Montavilla,4,0,2,1,1,1,1,1,0,1,2,4,14
+Concordia,2,0,1,0,0,1,2,0,2,2,2,2,12
+Portland Downtown,3,0,2,0,0,2,2,0,2,0,0,3,11
+Powellhurst-Gilbert,3,1,2,0,0,2,0,0,1,0,2,3,11
+Old Town,3,0,2,1,0,2,0,0,0,0,2,3,10
+Mill Park,4,1,0,0,2,0,1,0,0,0,1,4,9
+Goose Hollow,2,1,0,1,1,0,0,1,0,0,1,2,7
+King,2,1,0,0,1,1,0,0,1,0,1,2,7
+St. Johns,1,1,0,0,0,1,1,0,1,1,1,2,7
+Ardenwald-Johnson Creek,1,0,1,0,0,1,0,1,0,1,1,1,6
+Centennial,1,0,1,0,0,1,0,0,0,1,1,1,5
+Humboldt,2,1,0,0,0,0,0,1,0,0,1,2,5
+Northwest District,2,0,0,0,0,0,1,0,1,0,1,2,5
+Pearl District,1,1,0,0,0,1,0,0,1,0,1,1,5
+Russell,1,0,1,0,0,1,0,0,0,1,1,1,5
+Sellwood-Moreland,1,1,0,0,0,1,0,0,1,0,1,2,5
+Woodstock,1,0,1,0,0,1,0,0,0,1,1,2,5
+Eliot,2,0,0,1,0,0,0,0,0,0,1,2,4
+Hosford-Abernethy,1,1,0,0,0,0,0,0,1,0,1,1,4
+Mt. Scott-Arleta,1,1,0,0,0,0,0,0,1,0,1,1,4
+Mt. Tabor,1,0,1,0,0,1,0,0,0,0,1,1,4
+Richmond,2,0,0,0,2,0,0,0,0,0,0,2,4
+Brentwood-Darlington,1,0,1,0,0,1,0,0,0,0,0,1,3
+Buckman,1,0,1,0,0,1,0,0,0,0,0,1,3
+Hazelwood,1,0,0,0,0,0,0,1,0,0,1,1,3
+North Tabor,1,1,0,0,0,0,0,0,0,0,1,1,3
+Parkrose Heights,1,0,0,0,1,0,1,0,0,0,0,1,3
+Homestead,1,0,0,0,1,0,0,0,0,0,0,1,2
+Kerns,1,0,0,0,1,0,0,0,0,0,0,1,2
+Mt. Scott-Arleta neighborhood,1,0,0,0,1,0,0,0,0,0,0,1,2
+Multnomah,1,0,0,0,1,0,0,0,0,0,0,1,2
+Overlook,1,0,0,0,1,0,0,0,0,0,0,1,2
+West Haven-Sylvan,1,0,0,0,1,0,0,0,0,0,0,1,2
+Foster-Powell,1,0,0,0,0,0,0,0,0,0,0,1,1
+Hillsdale,1,0,0,0,0,0,0,0,0,0,0,1,1
+Kenton,1,0,0,0,0,0,0,0,0,0,0,1,1
+Roseway,1,0,0,0,0,0,0,0,0,0,0,1,1
+West Portland Park,1,0,0,0,0,0,0,0,0,0,0,1,1
+Hollywood,0,0,0,0,0,0,0,0,0,0,0,1,0
+Rockwood,0,0,0,0,0,0,0,0,0,0,0,1,0
+Sunnyside,0,0,0,0,0,0,0,0,0,0,0,1,0

@@ -1,5 +1,7 @@
 # Portland Homeless Resources
 
+![SQL Chatbot showing an answer and SQL agent activity](hatbot-demo.png)
+
 Homelessness in Portland, Oregon has been rated by the city’s voters as the city’s #1 problem.
 
 As part of a group project done for a class with The Oregon Institute of Technology we tackled this question: What neighborhoods of Portland lack nearby resources for their homeless population?
